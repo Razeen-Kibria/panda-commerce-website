@@ -1,9 +1,9 @@
-.container{
-                padding-bottom: 100px;
+.container {
+	padding-bottom: 100px;
 }
 .orange-bg {
 	background-color: cadetblue;
-                border-radius: 8px;
+	border-radius: 8px;
 }
 
 .carousel-item {
@@ -11,46 +11,55 @@
 }
 
 .price {
-	color:palevioletred;	
+	color: palevioletred;
 }
 
-.Buy-now{
-                background-color: cadetblue;
-                border:1px solid ;
-                border-radius: 8px;
-                color: beige;
-                padding: 9px 25px;
-                cursor: pointer;
+.Buy-now {
+	background-color: cadetblue;
+	border: 1px solid;
+	border-radius: 8px;
+	color: beige;
+	padding: 9px 25px;
+	cursor: pointer;
 }
-.cart1,.cart2,.cart3{
-                padding: 10px 30px;
-                border-radius: 15px;
+.cart1,
+.cart2,
+.cart3 {
+	padding: 10px 30px;
+	border-radius: 15px;
 }
-.cart1{
-                background-color: burlywood;
+.cart1 {
+	background-color: burlywood;
 }
-.cart2{
-                background-color: blue;
+.cart2 {
+	background-color: blue;
 }
-.cart3{
-                background-color: cadetblue;
-}
-
-.categories h1{
-                color: white;
-}
-.categories img{
-                width: 100px;
-}
-.col{
-                box-shadow:5px 5px 20px steelblue;
-                border: none;
+.cart3 {
+	background-color: cadetblue;
 }
 
-.card-footer{
-                border: none;
+.categories h1 {
+	color: white;
 }
-.card{
-                border: none;
-                box-shadow: 5px 5px 10px gray;
+.categories img {
+	width: 100px;
+}
+.col {
+	box-shadow: 5px 5px 20px steelblue;
+	border: none;
+}
+
+.card-footer {
+	border: none;
+}
+.card {
+	border: none;
+	box-shadow: 5px 5px 10px gray;
+}
+
+#subscribe {
+	height: 300px;
+}
+footer {
+	text-align: center;
 }
